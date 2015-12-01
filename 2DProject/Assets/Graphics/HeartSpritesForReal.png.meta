@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 58ca116b3faafb14e9d85da6f135097a
+timeCreated: 1448947720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeartSpritesForReal_0
+    21300002: HeartSpritesForReal_1
+    21300004: HeartSpritesForReal_2
+    21300006: HeartSpritesForReal_3
+    21300008: HeartSpritesForReal_4
+    21300010: HeartSpritesForReal_5
+    21300012: HeartSpritesForReal_6
+    21300014: HeartSpritesForReal_7
+    21300016: HeartSpritesForReal_8
+    21300018: HeartSpritesForReal_9
+    21300020: HeartSpritesForReal_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HeartSpritesForReal_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 920
+        width: 416
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 848
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 776
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 704
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 634
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 414
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 340
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSpritesForReal_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 416
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

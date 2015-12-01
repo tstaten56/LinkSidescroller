@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 822c672d43ec4e64f9e4b967b3f8a5c9
+timeCreated: 1448986311
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: linkfsa9transparencySucc_0
+    21300002: linkfsa9transparencySucc_1
+    21300004: linkfsa9transparencySucc_2
+    21300006: linkfsa9transparencySucc_3
+    21300008: linkfsa9transparencySucc_4
+    21300010: linkfsa9transparencySucc_5
+    21300012: linkfsa9transparencySucc_6
+    21300014: linkfsa9transparencySucc_7
+    21300016: linkfsa9transparencySucc_8
+    21300018: linkfsa9transparencySucc_9
+    21300020: linkfsa9transparencySucc_10
+    21300022: linkfsa9transparencySucc_11
+    21300024: linkfsa9transparencySucc_12
+    21300026: linkfsa9transparencySucc_13
+    21300028: linkfsa9transparencySucc_14
+    21300030: linkfsa9transparencySucc_15
+    21300032: linkfsa9transparencySucc_16
+    21300034: linkfsa9transparencySucc_17
+    21300036: linkfsa9transparencySucc_18
+    21300038: linkfsa9transparencySucc_19
+    21300040: linkfsa9transparencySucc_20
+    21300042: linkfsa9transparencySucc_21
+    21300044: linkfsa9transparencySucc_22
+    21300046: linkfsa9transparencySucc_23
+    21300048: linkfsa9transparencySucc_24
+    21300050: linkfsa9transparencySucc_25
+    21300052: linkfsa9transparencySucc_26
+    21300054: linkfsa9transparencySucc_27
+    21300056: linkfsa9transparencySucc_28
+    21300058: linkfsa9transparencySucc_29
+    21300060: linkfsa9transparencySucc_30
+    21300062: linkfsa9transparencySucc_31
+    21300064: linkfsa9transparencySucc_32
+    21300066: linkfsa9transparencySucc_33
+    21300068: linkfsa9transparencySucc_34
+    21300070: linkfsa9transparencySucc_35
+    21300072: linkfsa9transparencySucc_36
+    21300074: linkfsa9transparencySucc_37
+    21300076: linkfsa9transparencySucc_38
+    21300078: linkfsa9transparencySucc_39
+    21300080: linkfsa9transparencySucc_40
+    21300082: linkfsa9transparencySucc_41
+    21300084: linkfsa9transparencySucc_42
+    21300086: linkfsa9transparencySucc_43
+    21300088: linkfsa9transparencySucc_44
+    21300090: linkfsa9transparencySucc_45
+    21300092: linkfsa9transparencySucc_46
+    21300094: linkfsa9transparencySucc_47
+    21300096: linkfsa9transparencySucc_48
+    21300098: linkfsa9transparencySucc_49
+    21300100: linkfsa9transparencySucc_50
+    21300102: linkfsa9transparencySucc_51
+    21300104: linkfsa9transparencySucc_52
+    21300106: linkfsa9transparencySucc_53
+    21300108: linkfsa9transparencySucc_54
+    21300110: linkfsa9transparencySucc_55
+    21300112: linkfsa9transparencySucc_56
+    21300114: linkfsa9transparencySucc_57
+    21300116: linkfsa9transparencySucc_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: linkfsa9transparencySucc_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 376
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 376
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .46075654, y: .448601067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 376
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .530976892, y: .490733653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 376
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .516932964, y: .448601067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 376
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .446712047, y: .476689458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 372
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .530978978, y: .504777849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 372
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .460756838, y: .504777849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 373
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .390535891, y: .504777849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 373
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: .530978978, y: .476689279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 373
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .488845229, y: .434558094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 373
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .488845229, y: .462645262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 373
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: .488845229, y: .448602289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 372
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .545023203, y: .489692956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 521
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .438352048, y: .506456137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .422276616, y: .446924269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .454423815, y: .4766891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .502645254, y: .432040751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .454425037, y: .402273685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .454423815, y: .432040751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .454426259, y: .417157203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_29
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .406203628, y: .461805552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .55393064, y: .463996053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 520
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .55393064, y: .463996053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_32
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .55393064, y: .463996053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .55393064, y: .463996053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_34
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .55393064, y: .463996053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_35
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 523
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_38
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_39
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_40
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 521
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_41
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 522
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 399
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_43
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 399
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_44
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 399
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: .567639172, y: .489379883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 247
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 243
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 246
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 249
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 247
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_50
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 46
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_51
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 50
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_52
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 19
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_53
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 47
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_54
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 20
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_55
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 20
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_56
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 20
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 39
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linkfsa9transparencySucc_58
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 39
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
