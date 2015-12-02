@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b0cc95e1c2e9f1849adb908c03dbf60e
+timeCreated: 1449021568
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rupees_0
+    21300002: rupees_1
+    21300004: rupees_2
+    21300006: rupees_3
+    21300008: rupees_4
+    21300010: rupees_5
+    21300012: rupees_6
+    21300014: rupees_7
+    21300016: rupees_8
+    21300018: rupees_9
+    21300020: rupees_10
+    21300022: rupees_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rupees_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 671
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 593
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 517
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 517
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 593
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 673
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 670
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 673
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 593
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 515
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 517
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rupees_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 592
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
