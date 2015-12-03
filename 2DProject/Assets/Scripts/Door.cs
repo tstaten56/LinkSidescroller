@@ -20,6 +20,8 @@ public class Door : MonoBehaviour {
             gm.inputText.text = ("[E] to Enter");
             if (Input.GetKeyDown("e"))
             {
+                //Debug.Log("SaveRupees");
+                SaveRupees();
                 Application.LoadLevel(LevelToLoad);
             }
         }
@@ -31,6 +33,8 @@ public class Door : MonoBehaviour {
         {
             if (Input.GetKeyDown("e"))
             {
+                //Debug.Log("SaveRupees TriggerStay");
+                SaveRupees();
                 Application.LoadLevel(LevelToLoad);
             }
         }
@@ -42,5 +46,12 @@ public class Door : MonoBehaviour {
         {
             gm.inputText.text = ("[E] to Enter");
         }
+    }
+
+    void SaveRupees()
+    {
+        //Debug.Log("SaveRupees() func");
+        //Saves rupees when going to new level
+        PlayerPrefs.SetInt("Rupees", gm.rupees);
     }
 }

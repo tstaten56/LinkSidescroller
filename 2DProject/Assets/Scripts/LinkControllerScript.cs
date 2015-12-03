@@ -129,7 +129,18 @@ public class LinkControllerScript : MonoBehaviour
 
     void Die()
     {
-
+        if(PlayerPrefs.HasKey("HighRupees"))
+        {
+            //Is the current score > highRupees?
+            if (PlayerPrefs.GetInt("HighRupees") < gm.rupees)
+            {
+                PlayerPrefs.SetInt("HighRupees", gm.rupees);
+            }
+        }
+        else
+        {
+            PlayerPrefs.SetInt("HighRupees", gm.rupees);
+        }
         Application.LoadLevel(Application.loadedLevel);
 
     }
