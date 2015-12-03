@@ -164,10 +164,20 @@ public class LinkControllerScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if(col.CompareTag("Rupee"))
+        if(col.CompareTag("GreenRupee"))
         {
             Destroy(col.gameObject);
             gm.rupees += 1;
+        }
+        if(col.CompareTag("RedRupee"))
+        {
+            Destroy(col.gameObject);
+            gm.rupees += 20;
+        }
+        if (col.CompareTag("BlueRupee"))
+        {
+            Destroy(col.gameObject);
+            gm.rupees += 5;
         }
     }
 
