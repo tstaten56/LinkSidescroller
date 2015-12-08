@@ -129,7 +129,18 @@ public class LinkControllerScript : MonoBehaviour
 
     void Die()
     {
-
+        if(PlayerPrefs.HasKey("HighRupees"))
+        {
+            //Is the current score > highRupees?
+            if (PlayerPrefs.GetInt("HighRupees") < gm.rupees)
+            {
+                PlayerPrefs.SetInt("HighRupees", gm.rupees);
+            }
+        }
+        else
+        {
+            PlayerPrefs.SetInt("HighRupees", gm.rupees);
+        }
         Application.LoadLevel(Application.loadedLevel);
 
     }
@@ -164,10 +175,20 @@ public class LinkControllerScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if(col.CompareTag("Rupee"))
+        if(col.CompareTag("GreenRupee"))
         {
             Destroy(col.gameObject);
             gm.rupees += 1;
+        }
+        if(col.CompareTag("RedRupee"))
+        {
+            Destroy(col.gameObject);
+            gm.rupees += 20;
+        }
+        if (col.CompareTag("BlueRupee"))
+        {
+            Destroy(col.gameObject);
+            gm.rupees += 5;
         }
     }
 
